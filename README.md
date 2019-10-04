@@ -1,7 +1,6 @@
-
 <br> Data sciencey type stuff is up a dir.  
-<br> My solutions to various philosophical problems are scattered around twitter.
-<br> My solutions to specific real world problems are in the hands of those who need them.
+<p> My solutions to various philosophical problems are scattered around twitter.
+<p> My solutions to specific real world problems are in the hands of those who need them.
 <hr>
 A Mouth Full Of Feet
 <br>
